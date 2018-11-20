@@ -5,14 +5,10 @@ Created on Tue Dec 19 14:13:22 2017
 
 @author: chongjiayoong
 """
+########################################################################################
+#KAGGLE MACHINE LEARNING CHALLENGE: DROP-OUT NEURAL NETWORK FOR HIGGS BOSON DETECTION  #
+########################################################################################
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 12 02:23:58 2017
-
-@author: chongjiayoong
-"""
 #import useful modules from numpy and math, and matplotlib 
 #import tensorflow for implementation of neural network 
 #import sci-kit learn 
