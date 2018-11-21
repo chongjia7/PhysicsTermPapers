@@ -1,5 +1,7 @@
 # PhysicsTermPapers
-Undergraduate Term Papers for Computational Physics (Fall 2017) and Time Series (Spring 2018) ( Tools: Python, Tensorflow, Keras) 
+Undergraduate Term Papers for Computational Physics (Fall 2017) and Time Series (Spring 2018) 
+
+Tools: Python, Tensorflow, Keras & Scikit-learn 
 
 1.) Source Mechanism Inversion of Induced Seismicity for ESS392 Directed Studies. Packages include Obspy,  FK package, gCAP package. 
 
